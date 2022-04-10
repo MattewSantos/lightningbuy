@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Html_folder"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\classes"
+		},
+		{
+			"path": "..\\..\\portfolio"
+		},
+		{
+			"path": "..\\..\\class09"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "class09"
+	}
+}
